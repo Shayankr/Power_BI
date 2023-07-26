@@ -396,3 +396,10 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+
+
+# Marked by me to ignore files and dir:
+# SQL2022-SSEI-Dev.exe
+SSMS-Setup-ENU.exe
+
